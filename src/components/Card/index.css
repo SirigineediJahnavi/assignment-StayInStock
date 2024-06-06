@@ -1,0 +1,11 @@
+.smallimage{
+    height:30px;
+    width:30px;
+}
+.card{
+    background-color:rgb(211, 172, 211);
+    margin:2vh;
+    padding:2vh;
+    border-radius:10px;
+    height:10px;
+}

@@ -1,0 +1,38 @@
+.rowalignment{
+    display:flex;
+    flex-direction:row;
+    align-items:center;
+    justify-content:center;
+    margin:4vh;
+
+}
+.heading{
+    text-align:center;
+}
+.forthpage{
+    margin:5vh;
+}
+.words{
+    margin:10vh;
+    height:50vh;
+}
+.secondpart{
+    background-image:linear-gradient(to right,blue,orange);
+    height:100vh;
+    width:70vw;
+
+}
+.heads{
+    margin-right:10vh;
+    width:60vw
+}
+.button {
+    align-self: center;
+    border-radius: 20vh; /* This will depend on viewport height */
+    padding: 10px 20px;
+    border: none;
+    background-color: blue;
+    color: white;
+    cursor: pointer;
+    font-size: 16px;
+  }

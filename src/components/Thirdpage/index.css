@@ -1,0 +1,78 @@
+.rowalignment{
+    display:flex;
+    width:90vw;
+    margin:auto;
+}
+.burger{
+    height:80vh;
+    width:40vw;
+}
+.profile{
+    height:12vh;
+    width:5vw;
+    border-radius:100px;
+    margin-top:3vh;
+}
+.samosa{
+    height:15vh;
+    width:10vw;
+}
+.profilerow{
+    display:flex;
+    flex-direction:row;
+    justify-content:space-between;
+    margin-top:3vw;
+}
+.justprofile{
+    display:flex;
+    
+}
+.names{
+    margin-left:4vh;
+}
+.leftright{
+margin-top:5vh;
+}
+.left{
+    margin-right:5vh;
+    }
+
+.discount{
+    
+    margin:4vh 5vh 0 2vh;
+    color:white;
+  
+    background: linear-gradient(to right,#feb47b, #ff5fdc); /* Gradient colors */
+    -webkit-background-clip: text;
+    background-clip:uns;
+    -webkit-text-fill-color: transparent;
+      
+}
+.button{
+    padding:0vh 3vh 3vh 3vh;
+    border-radius:3vh;
+   
+}
+
+.buttonread{
+    
+   display:flex;
+   flex-direction:column;
+   margin: 2vh 5vh 0 2vh;
+    background:linear-gradient(to right, #feb47b, #870dac);
+    padding: 5vh 2vh;
+    color: transparent;
+    border-radius: 60px;
+    border: 1px solid; /* Adjust the border width as needed */
+    border-image: linear-gradient(to right, #feb47b, #870dac) 1;
+    background-clip: padding-box, border-box;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+
+
+}
+
+
+.buttons{
+    display:flex;
+}

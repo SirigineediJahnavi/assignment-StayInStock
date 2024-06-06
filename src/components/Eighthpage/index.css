@@ -1,0 +1,11 @@
+.background{
+    background-image:linear-gradient(to right,violet ,pink);
+    padding:40vh;
+    border-radius:30px;
+    height:30vh;
+}
+.button{
+    background-color:black;
+    color:white;
+    align-self: center;
+}

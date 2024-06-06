@@ -1,0 +1,31 @@
+
+.firstpage{
+    color:white;
+    background-color:rgb(21, 21, 53);
+    display:flex;
+    width:100vw;
+}
+.leftpart{
+    margin:10vh;
+}
+.ontime{
+    background: linear-gradient(to right,#feb47b, #ff5fdc); /* Gradient colors */
+    -webkit-background-clip: text;
+    background-clip:uns;
+    -webkit-text-fill-color: transparent;
+    
+}
+.heading{
+    font-size:50px;
+    font-weight:40
+}
+
+.directionsdiv{
+    display:flex;
+}
+.cards{
+    display:flex;
+}
+.fourhead{
+    text-align:center;
+}
